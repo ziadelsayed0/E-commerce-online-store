@@ -1,4 +1,4 @@
-# e_commerece_sales_app
+# e_commerece_online-store
 
 A new Flutter project.
 
